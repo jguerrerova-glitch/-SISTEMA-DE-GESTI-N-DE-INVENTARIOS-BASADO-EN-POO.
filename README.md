@@ -18,6 +18,6 @@ Para esta primera entrega, no se requiere ejecutar un prototipo funcional. Para 
 
 ## Instalación y Ejecución
 1. Clonar este repositorio en tu máquina local:
-   `git clone [URL_DE_TU_REPOSITORIO]`
+   `git clone [URL_REPOSITORIO]`
 2. Abrir la carpeta del proyecto en tu IDE de preferencia.
 3. Compilar y ejecutar la clase principal `Main.java`.
