@@ -6,7 +6,7 @@ Este repositorio contiene el proyecto final de la asignatura de Programación Or
 1. Juan Sebastian Guerrero Vanegas
 2. Ervin Santiago Ardila Vanegas
 3. Luisa Fernanda García Mercado
-4. [Nombre del Integrante 4]
+4. Juan Manuel Caviedes sanchez 
 5. [Nombre del Integrante 5]
 
 
